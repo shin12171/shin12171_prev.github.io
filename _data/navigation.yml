@@ -10,11 +10,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
+  # - title: "Публикации"
+  #   url: /year-archive/
+  - title: "Категории"
     url: /categories/
-  - title: "Tags"
+  - title: "Метки"
     url: /tags/
-  - title: "Pages"
-    url: /page-archive/
+  - title: "Архив"
+    url: /year-archive/
